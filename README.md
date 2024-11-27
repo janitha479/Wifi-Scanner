@@ -47,7 +47,7 @@ echo "All dependencies installed successfully!"
    - Clone the repository:
      ```bash
      git clone https://github.com/janitha479/Wifi-Scanner.git
-     cd your-repo
+     cd Wifi-Scanner
      ```
    - Install dependencies:
      ```bash
