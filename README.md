@@ -46,7 +46,7 @@ echo "All dependencies installed successfully!"
 2. 🐍 **For Python Users**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/your-repo.git](https://github.com/janitha479/Wifi-Scanner.git
+     https://github.com/janitha479/Wifi-Scanner.git
      cd your-repo
      ```
    - Install dependencies:
