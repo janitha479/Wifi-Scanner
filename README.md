@@ -49,13 +49,9 @@ echo "All dependencies installed successfully!"
      git clone https://github.com/janitha479/Wifi-Scanner.git
      cd Wifi-Scanner
      ```
-   - Install dependencies:
-     ```bash
-     bash install_dependencies.sh
-     ```
    - Run the script with admin privileges:
      ```bash
-     python wifi_profile_scanner.py
+     python scan.py
      ```
 
 ---
